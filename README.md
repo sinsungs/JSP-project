@@ -10,7 +10,7 @@
 ## 📄 기술 스택
 
 ```
-JSP, Ajax, MySQL
+JSP, MySQL
 ```
 
 <br>
